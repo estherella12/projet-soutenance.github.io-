@@ -1,0 +1,49 @@
+.bv {
+  margin-top: 30px;
+}
+.image-acceuil{
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+@media all and (max-width: 768px) {
+  .raw {
+    flex-wrap: wrap;
+  }
+
+  .bv {
+    margin-left: 185px !important;
+    margin-top: 30px;
+  }
+}
+
+@media all and (max-width: 425px) {
+  .boutique-line {
+    padding: 12% !important;
+  }
+
+  .samousa {
+    width: 410px;
+  }
+  .bv {
+    margin-left: 0px !important;
+  }
+}
+
+@media all and (max-width: 320px) {
+  .boutique-line {
+    padding: 62% !important;
+  }
+
+  .samousa {
+    width: 310px;
+  }
+  .bv {
+    margin-left: 0px !important;
+  }
+}
+
+
+ 
