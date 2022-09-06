@@ -25,3 +25,23 @@
   li{
       font-size: 20px;
   }
+
+
+  @media all and (max-width: 768px){
+    .galerie-traiteur{
+        width: 150px;
+    }
+    .sandwich{
+      width: 300px;
+    }
+    
+  }
+
+  @media all and (max-width: 425px){
+    .img-patisserie{
+        flex-wrap: wrap;
+    }
+    #galerie-service {
+        flex-wrap: wrap;
+    }
+  }
