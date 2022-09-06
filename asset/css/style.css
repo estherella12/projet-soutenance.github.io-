@@ -47,6 +47,7 @@
 
 .royaltast{
   background-color: #210493;
+  height: 350px;
 }
 
 .test-color{
@@ -54,11 +55,26 @@
 }
 
 .resau-socio{
-  justify-content: space-around;
+  margin-left: 10px;
+}
+.slogan{
+  margin-left: 100px;
+  margin-top: 50px;
+}
+
+.jour{
+  font-size: 20px;
+  
+}
+.localisation{
+  font-size: 20px;
+  margin-left: 15px ;
 }
 
 .copyrith{
   background-color: #58C5CC;
+  height: 50px;
+  font-size: 20px;
 }
 
 .formule-acceuil{
