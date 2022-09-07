@@ -31,6 +31,12 @@
   color: white;
 
 }
+.gamme-gateau{
+  font-size: 20px;
+}
+.partie2{
+  justify-content: space-around;
+}
 
 .reserver{
   margin: 2% 40% 2% 40%;
@@ -43,6 +49,49 @@
 
 .nos-actualités{
   background-color: #968989;
+  height: 350px;
+}
+.actualite-titre{
+  margin-top: 20px;
+}
+.inscrivez{
+  font-size: 25px;
+  
+}
+.form-control{
+  width: 900px;
+  height: 50px;
+  margin-left: 200px;
+}
+.souscrire{
+  margin-left: 600px;
+  margin-top: 20px;
+  width: 150px;
+  font-size: 20px;
+  color: white;
+  background-color: #FF7E55;
+}
+.commander-traiteur{
+  margin-left: 600px;
+  margin-top: 20px;
+  width: 250px;
+  font-size: 20px;
+  color: white;
+  background-color: #FF7E55;
+}
+
+.btn{
+  color: white;
+  background-color: #FF7E55;
+  
+}
+.partie2{
+  justify-content: space-around
+}
+.text-partie2{
+  margin-left: 100px;
+  margin-top: 50px;
+  font-size: 35px;
 }
 
 .royaltast{
