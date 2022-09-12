@@ -131,6 +131,9 @@
   
   
 }
+.tirait{
+  margin-bottom: 2px solid red;
+}
 @media all and (max-width: 768px) {
   .raw {
     flex-wrap: wrap;
